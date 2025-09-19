@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a motivated and passionate first-year B.Tech student specializing in Computer Science and Business Systems at Christ College of Engineering.<br>I continuously seek opportunities to enhance my knowledge, collaborate on innovative projects, and contribute to the tech community.<br>With a strong commitment to continuous learning, I am eager to take on internships, research projects, and industry collaborations that allow me to apply my knowledge in a professional setting.<br>I am actively involved in university clubs and hackathons, collaborating with like-minded peers to build projects that demonstrate the practical application of my studies.
+I am a motivated and passionate first-year B.Tech student specializing in Computer Science and Business Systems at Christ College of Engineering.<br>I continuously seek opportunities to enhance my knowledge, collaborate on innovative projects, and contribute to the tech community.<br>With a strong commitment to continuous learning, I am eager to take on internships, research projects, and industry collaborations that allow me to apply my knowledge in a professional setting.
 
 
 # 💻 Tech Stack:
